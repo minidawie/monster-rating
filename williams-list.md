@@ -53,7 +53,7 @@ Just a little side note: I wholheartedly agree with most ratings given by David 
 <br>
 
 `Tea Lemonade` rating: *9.5/10*
-- This is chef's kiss. This is my version of a Wendy drink if it ever existed. The person who thought of this deserves a Nobel Peace Prize for his contributions to humanity. If I could, I would drink this drink and give the creator of this a nice strawberry and lemonade blowjob. Holy fuck this shit is soooo good. I would argue that this flavor ranks in the top 5 of any drinks I've ever had in my life. This drink has given me a new perspective on Strawberry Lemonade, that I have convinced myself that if my future SO doesn't have a strawberry lemonade lipstick on and ain't kissing me with that scent, I will do humanity a favor and just get rid of their existence on this planet
+- This is chef's kiss. This is my version of a Wendy drink if it ever existed. The person who thought of this deserves a Nobel Peace Prize for his contributions to humanity. If I could, I would drink this drink and give the creator of this a nice strawberry and lemonade blowjob. Holy fuck this shit is soooo good. I would argue that this flavor ranks in the top 5 of any drinks I've ever had in my life. This drink has given me a new perspective on Strawberry Lemonade, so much so, that I have convinced myself that if my future SO doesn't have a strawberry lemonade lipstick on and ain't kissing me with that scent, I will do humanity a favor and just get rid of their existence on this planet
 - Non carbonated, and is just the definition of perfection. I promise you Merriam Webster will change their definition of perfection from "the quality or state of being perfect" to just "Monster Strawberry Lemonade Rehab"
 <br>
 <br>
