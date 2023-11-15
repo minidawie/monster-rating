@@ -20,3 +20,7 @@
 ![U-sunrise](ultra-sunrise.png) `Ultra Sunrise` rating: 2/10
     - tastes like vitamin c power. would not recommend
     - carbonated
+
+`Ultra Fiesta Mango` rating: 
+    - Tastes like weaker mango juice
+    - carbonated
