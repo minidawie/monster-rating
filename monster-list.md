@@ -1,6 +1,6 @@
 # **David's List**
 
-<img src="original.png" alt="drawing" width="600"/></img>
+<img src="img/original.png" alt="drawing" width="600"/></img>
 <br>
 
 `Original` rating: 6/10
@@ -9,7 +9,7 @@
     - non-carbonated
 <br>
 <br>
-<img src="ultra-watermelon.png" alt="drawing" width="600"/></img> 
+<img src="img/ultra-watermelon.png" alt="drawing" width="600"/></img> 
 
 `Ultra Watermelon Zero Sugar` rating: 6/10
 
@@ -18,7 +18,7 @@
     - carbonated
 <br>
 <br>
-<img src="ultra-strawberry-dreams.png" alt="drawing" width="600"/></img>
+<img src="img/ultra-strawberry-dreams.png" alt="drawing" width="600"/></img>
 
 `Ultra Strawberry Dreams Zero Sugar` rating: 6/10
 
@@ -27,7 +27,7 @@
     - carbonated
 <br>
 <br>
-<img src="ultra-violet.png" alt="drawing" width="600"/></img>
+<img src="img/ultra-violet.png" alt="drawing" width="600"/></img>
 
 `Ultra Violet Zero Sugar` rating: 6.5/10
 
@@ -35,7 +35,7 @@
     - carbonated
 <br>
 <br>
-<img src="ultra-sunrise.png" alt="drawing" width="600"/></img>
+<img src="img/ultra-sunrise.png" alt="drawing" width="600"/></img>
 
 `Ultra Sunrise` rating: 2/10
 
@@ -43,7 +43,7 @@
     - carbonated
 <br>
 <br>
-<img src="ultra-fiesta-mango.png" alt="drawing" width="600"/></img>
+<img src="img/ultra-fiesta-mango.png" alt="drawing" width="600"/></img>
 
 `Ultra Fiesta Mango` rating: 
 
