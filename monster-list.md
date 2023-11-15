@@ -1,43 +1,51 @@
 # **David's List**
+
 <img src="original.png" alt="drawing" width="600"/></img>
 <br>
+
 `Original` rating: 6/10
+
     - classic fuel flavor. When in doubt cannot go wrong
     - non-carbonated
 <br>
 <br>
 <img src="ultra-watermelon.png" alt="drawing" width="600"/></img> 
-<br>
+
 `Ultra Watermelon Zero Sugar` rating: 6/10
+
     - tastes like watered down watermelon jolly rancher
     - very sweet. leaves mouth feeling sugary
     - carbonated
 <br>
 <br>
 <img src="ultra-strawberry-dreams.png" alt="drawing" width="600"/></img>
-<br>
+
 `Ultra Strawberry Dreams Zero Sugar` rating: 6/10
+
     - tastes like multi-vitamin gummy bears
     - not bad for an everyday drink 
     - carbonated
 <br>
 <br>
 <img src="ultra-violet.png" alt="drawing" width="600"/></img>
-<br>
+
 `Ultra Violet Zero Sugar` rating: 6.5/10
+
     - tastes like caprisun grape and fruit-punch mix
     - carbonated
 <br>
 <br>
 <img src="ultra-sunrise.png" alt="drawing" width="600"/></img>
-<br>
+
 `Ultra Sunrise` rating: 2/10
+
     - tastes like vitamin c power. would not recommend
     - carbonated
 <br>
 <br>
 <img src="ultra-fiesta-mango.png" alt="drawing" width="600"/></img>
-<br>
+
 `Ultra Fiesta Mango` rating: 
+
     - Tastes like weaker mango juice
     - carbonated
