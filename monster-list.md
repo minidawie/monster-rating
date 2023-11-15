@@ -45,7 +45,7 @@
 <br>
 <img src="img/ultra-fiesta-mango.png" alt="drawing" width="600"/></img>
 
-`Ultra Fiesta Mango` rating: 
+`Ultra Fiesta Mango` rating: 6/10
 
 - Tastes like weaker mango juice
 - carbonated
