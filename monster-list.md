@@ -49,3 +49,12 @@
 
 - Tastes like weaker mango juice
 - carbonated
+<br>
+<br>
+<img src="img/ultra-paradise.png" alt="drawing" width="600"/></img>
+
+`Ultra Paradise` rating: 6/10
+
+- A little bit of apple, pineapple. A little fruity like the bois
+- hits the tongue with that little bit of sour power
+- carbonated
