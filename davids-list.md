@@ -11,7 +11,7 @@
 <br>
 <img src="img/ultra-watermelon.png" alt="drawing" width="600"/></img> 
 
-`Ultra Watermelon Zero Sugar` rating: 6/10
+`Ultra Watermelon Zero Sugar` rating: 5.5/10
 
 - tastes like watered down watermelon jolly rancher
 - very sweet. leaves mouth feeling sugary
@@ -20,7 +20,7 @@
 <br>
 <img src="img/ultra-strawberry-dreams.png" alt="drawing" width="600"/></img>
 
-`Ultra Strawberry Dreams Zero Sugar` rating: 6/10
+`Ultra Strawberry Dreams Zero Sugar` rating: 5.5/10
 
 - tastes like multi-vitamin gummy bears
 - not bad for an everyday drink 
@@ -29,7 +29,7 @@
 <br>
 <img src="img/ultra-violet.png" alt="drawing" width="600"/></img>
 
-`Ultra Violet Zero Sugar` rating: 6.5/10
+`Ultra Violet Zero Sugar` rating: 5.5/10
 
 - tastes like caprisun grape and fruit-punch mix
 - carbonated
@@ -45,7 +45,7 @@
 <br>
 <img src="img/ultra-fiesta-mango.png" alt="drawing" width="600"/></img>
 
-`Ultra Fiesta Mango` rating: 6/10
+`Ultra Fiesta Mango` rating: 5/10
 
 - Tastes like weaker mango juice
 - carbonated
@@ -53,7 +53,7 @@
 <br>
 <img src="img/ultra-paradise.png" alt="drawing" width="600"/></img>
 
-`Ultra Paradise` rating: 6/10
+`Ultra Paradise` rating: 5/10
 
 - A little bit of apple, pineapple. A little fruity like the bois
 - hits the tongue with that little bit of sour power
