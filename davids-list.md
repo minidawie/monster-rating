@@ -58,3 +58,12 @@
 - A little bit of apple, pineapple. A little fruity like the bois
 - hits the tongue with that little bit of sour power
 - carbonated
+<br>
+<br>
+<img src="img/aussie-lemonade.png" alt="drawing" width="600"/></img>
+
+`Aussie Lemonade` rating: 8/10
+
+- Tastes like an energy drink version of brisk
+- 50% sure it was carbonated. I was driving while drinking this so 
+
