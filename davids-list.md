@@ -70,7 +70,7 @@
 <br>
 <img src="img/ultra-peachy-keen.png" alt="drawing" width="600"/></img>
 
-`Aussie Lemonade` rating: 7/10
+`Ultra Peachy Keen` rating: 7/10
 
 - The peach flavor tastes almost like that peachy korean candy. iykyk
 - Honestly this tastes really good. It is sweet without feeling sweet but idk if thats because I am sleep deprived, physically tired from driving, and haven't eaten a meal in about 14 hours.
