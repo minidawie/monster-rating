@@ -39,7 +39,7 @@
 
 `Ultra Sunrise` rating: 2/10
 
-- tastes like vitamin c power. would not recommend
+- tastes like vitamin c powder. would not recommend
 - carbonated
 <br>
 <br>
