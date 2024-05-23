@@ -105,7 +105,7 @@
 - 10/10 would buy again
 <br>
 <br>
-<img src="img/wild-berry-tea.png" alt="drawing" width="600"/></img>
+<img src="img/watermelon.png" alt="drawing" width="600"/></img>
 
 `Watermelon Reserve` rating: 7/10
 
