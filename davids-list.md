@@ -84,4 +84,45 @@
 - pretty mid. 
 - tastes like capri sun but when youre 4 pouches in 
 - carbonated
+<br>
+<br>
+<img src="img/strawberry-lemonade.png" alt="drawing" width="600"/></img>
+
+`Strawberry Lemonade` rating: 8.5/10
+
+- Kinda like strawberry fanta. Feels like the same syrup.
+- Solid sweet drink
+- non-carbonated
+<br>
+<br>
+<img src="img/wild-berry-tea.png" alt="drawing" width="600"/></img>
+
+`Wild Berry Tea` rating: 10/10
+
+- Totally unbiased opinion but it tastes like my go to order at teacision: blackberry black tea
+- Goated drink
+- non-carbonated
+- 10/10 would buy again
+<br>
+<br>
+<img src="img/wild-berry-tea.png" alt="drawing" width="600"/></img>
+
+`Watermelon Reserve` rating: 7/10
+
+- Tastes like juiced up watermelon candy.
+- You can feel the energy hit your tongue and zap around.
+- Good for once. Not that nice for twice
+- non-carbonated
+<br>
+<br>
+<img src="img/orange-dreamsicle.png" alt="drawing" width="600"/></img>
+
+`Orange Dreamsicle` rating: 0/10
+
+- This shi- disgusting. WTF
+- I wouldn't feed this to my sugar granny even if it meant she would pass sooner, leaving me with a fat inheritance.
+- Honestly ive never been a fan of creamy drinks so idk why I expected to think that this would be any different. That “cream” flavor is really strong. No bueno. 
+- carbonation: (I don't remember)
+  
+
 
