@@ -57,3 +57,12 @@ Just a little side note: I wholheartedly agree with most ratings given by David 
 - Non carbonated, and is just the definition of perfection. I promise you Merriam Webster will change their definition of perfection from "the quality or state of being perfect" to just "Monster Strawberry Lemonade Rehab"
 <br>
 <br>
+
+<img src="img/Ultra_Vice_Guava.png" alt="drawing" width="600"/></img>
+<br>
+
+`Ultra Vice Guava` rating: *5.8/10*
+- Yea, I'm not entirely too sure about this one. I was really excited because I really like guava drinks, but this just *feels* basic. What I mean by that is, you get the kick of guava right at the beginning, and then it just disappears, leaving you with that familiar taste that all these monster zero sugar drinks have. That's why I was hesitant on giving out the full score. Like the guava aspect, but the rest of the drink quickly nulls everything. It's kinda just like banging your good friend (David for me) with a condom, except when you're both finished, both of you just lay there like "damn that's it?" because there was really no excitement in the climax due to the condom cock blocking everything.
+- Dissapointing to say the least, especially since the presentation of the can itself really lures you into a false sense of high expectation. Doesn't deserve anything above a 6 in my professional opinion, but it's worth trying at least once.
+  <br>
+  <br>
