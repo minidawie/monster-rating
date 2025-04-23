@@ -34,10 +34,8 @@
         {"critic": "William Chung", "type":"Tea", "flavor": "Tea Lemonade", "rating": 0.8, "review": "This is where it's at. Compared to the rest of the Monster drinks, this one isn't as sweet, but it gives you a slight kick that doesn't last till the next day. Non carbonated, and tastes like a sweeter version of Arizona's Arnold Palmer drink (which is arguably my favorite)" },
         {"critic": "David Koh", "type":"Tea", "flavor": "Wild Berry Tea", "rating": 1.0, "review": "Totally unbiased opinion but it tastes like my go to order at teacision: blackberry black tea. Absolutely goated drink, non-carbonated, and 10/10 would buy again." },
         {"critic": "William Chung", "type":"Tea", "flavor": "Wild Berry Tea", "rating": -100, "review": "Never tried" },
-
-        {"critic": "David Koh", "type":"Tea", "flavor": "Peach Tea", "rating": -100, "review": "." },
-        {"critic": "William Chung", "type":"Tea", "flavor": "Peach Tea", "rating": -100, "review": "Never tried" },
-        
+        {"critic": "David Koh", "type":"Tea", "flavor": "Peach Tea", "rating": .75, "review": "The flavor itself is very light. There is a bit of that signature artificial peach flavor that we all love but there is also a distinct flavor of "energy drink" that is not quite masked as well as I would've enjoyed." },
+        {"critic": "William Chung", "type":"Tea", "flavor": "Peach Tea", "rating": -100, "review": "Never tried" },        
         {"critic": "David Koh", "type":"Reserve", "flavor": "Watermelon", "rating": 0.7, "review": "Tastes like juiced up watermelon candy. You can feel the energy hit your tongue and zap around. Honestly, good for the first time, not that nice for twice. It's non-carbonated though." },
         {"critic": "William Chung", "type":"Reserve", "flavor": "Watermelon", "rating": -100, "review": "Never tried" },
         {"critic": "David Koh", "type":"Reserve", "flavor": "Orange Dreamsicle", "rating": 0, "review": "This shi- disgusting. WTF, I wouldn't even feed this to my sugar granny even if it meant she would pass sooner, leaving me with a fat inheritance. Honestly I've never been a fan of creamy drinks so idk why I expected to think that this would be any different. That “cream” flavor is really strong. No bueno." },
