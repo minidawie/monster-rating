@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Monster Energy';
-    src: url("fonts/Green_Energy.ttf") format('truetype');
+    src: url("/fonts/Green_Energy.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Simbiot';
-    src: url('fonts/Simbiot.ttf') format('truetype');
+    src: url('/fonts/Simbiot.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
