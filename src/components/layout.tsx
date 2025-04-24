@@ -63,8 +63,8 @@ export const RatingsLayout: React.FC = () => {
             let newIndex = prevFlavor + i; // Add 1 or -1
             // Check for bounds of the array
             if (newIndex < 0) {
-                newIndex = 19;
-            } else if (newIndex > 19) {
+                newIndex = 20;
+            } else if (newIndex > 20) {
                 newIndex = 0;
             }
             return newIndex; // Return the updated flavor index
