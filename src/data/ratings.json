@@ -66,9 +66,7 @@
         {"flavor": "Tea Lemonade", "colorOne": "#FDE000", "colorTwo": "#FDE000"},
         {"flavor": "Wild Berry Tea", "colorOne": "#91295C", "colorTwo": "#3B7BA3"},
         {"flavor": "Peach Tea", "colorOne": "#E6904B", "colorTwo": "#E6904B"},
-
-        {"flavor": "Green Tea", "colorOne": "#E6904B", "colorTwo": "#E6904B"},
-        
+        {"flavor": "Green Tea", "colorOne": "#9FC535", "colorTwo": "#9FC535"},
         {"flavor": "Watermelon", "colorOne": "#E72B46", "colorTwo": "#E72B46"},
         {"flavor": "Orange Dreamsicle", "colorOne": "#B0A393", "colorTwo": "#F9EDAA"},
         {"flavor": "White Pineapple", "colorOne": "#FFF35C", "colorTwo": "#FFF35C"},
