@@ -6,3 +6,5 @@ May also try to scrap flavors from monster's website to update with all the flav
 
 
 monster-rating.vercel.app
+
+[Link](https://monster-rating.vercel.app) to website
