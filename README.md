@@ -4,3 +4,5 @@ Also, at the moment we don't have textures for the can, as that's still a work i
 
 May also try to scrap flavors from monster's website to update with all the flavors 
 
+
+monster-rating.vercel.app 
