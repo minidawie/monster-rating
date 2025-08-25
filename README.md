@@ -7,9 +7,9 @@ May also try to scrap flavors from monster's website to update with all the flav
 [Link](https://monster-rating.vercel.app) to website
 
 Things to try to add:
-  interactive review adding
-    - [ ] (later) authentification for just me and will so plebs cant change site
-    - [ ] have a button to add new drink
-      - [ ] auto adds other persons review to dafault values
-      - [ ] idk how we gonna add color but maybe color wheel?
-    - [ ] within review page there can be a little edit button to change values
+- interactive review adding
+  - [ ] (later) authentification for just me and will so plebs cant change site
+  - [ ] have a button to add new drink
+    - [ ] auto adds other persons review to dafault values
+    - [ ] idk how we gonna add color but maybe color wheel?
+  - [ ] within review page there can be a little edit button to change values
