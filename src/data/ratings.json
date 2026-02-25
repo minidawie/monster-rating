@@ -71,6 +71,7 @@
         {"flavor": "Pipeline Punch", "colorOne": "#C73C65", "colorTwo": "#C73C65"},
         {"flavor": "Mango Loco", "colorOne": "#1FAEDB", "colorTwo": "#F6BB35"},
         {"flavor": "Pacific Punch", "colorOne": "#E7D1AC", "colorTwo": "#E41935"},
+        {"flavor": "Voodoo Grape", "colorOne": "#4E2D6B", "colorTwo": "#4A4183"},
         {"flavor": "Tea Lemonade", "colorOne": "#FDE000", "colorTwo": "#FDE000"},
         {"flavor": "Wild Berry Tea", "colorOne": "#91295C", "colorTwo": "#3B7BA3"},
         {"flavor": "Peach Tea", "colorOne": "#E6904B", "colorTwo": "#E6904B"},
