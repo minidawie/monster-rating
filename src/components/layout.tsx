@@ -61,10 +61,11 @@ export const RatingsLayout: React.FC = () => {
     const changeFlavor = (i: number) => {
         setFlavor(prevFlavor => {
             let newIndex = prevFlavor + i; // Add 1 or -1
+            const maxIndex = drinks.colors.length - 1;
             // Check for bounds of the array (NOTE: change this so index values are dynamic)
             if (newIndex < 0) {
-                newIndex = 23;
-            } else if (newIndex > 23) {
+                newIndex = maxIndex;
+            } else if (newIndex > maxIndex) {
                 newIndex = 0;
             }
             return newIndex; // Return the updated flavor index
